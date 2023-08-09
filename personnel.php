@@ -27,25 +27,24 @@
                                 <h3>Graduate Students</h3>
                                 <li>Nick Glodosky</li>
                                 <li>Amanda Stueber</li>
-                                <li>Kyle Schofield</li>
-                                <li>Aria Petrucci</li>
                                 </br>
 
                                 <h3>Graduate Student Alumni</h3>
+                                <li>Kyle Schofield</li>
                                 <li>Dakota Mauzay</li>
                                 <li>Alexander Spradlin</li>
                                 <li>Emily LaFrance</li>
                                 </br>
 
                                 <h3>Undergraduate Student Research Assistants</h3>
-                                <li>Alexander Jensen</li>
-                                <li>Nikolas Steckley (Web Designer)</li>
+                                <li>Pranavi (Vi) Peddibholta</li>
                                 </br>
 
                                 <h3>Undergraduate Student Alumni</h3>
+                                <li>Alexander Jensen</li>
+                                <li>Nikolas Steckley (Web Designer)</li>
                                 <li>Gavin Jarschke</li>
                                 <li>Emma Smith</li>
-                                <li>Aria Petrucci</li>
                                 <li>Marcella Teixiera-Marques</li>
                                 <li>Mackenzie Allison, Jillian Millar</li>
                                 <li>Erin Brooks</li>
@@ -64,6 +63,12 @@
                                 <li>Tristan Underwood</li>
                             </div>
                             <div class="column">
+                              <div class="personnel7-pic">
+                                  <img src="doc/personnel7.jpeg" style="width:50%;">
+                              </div>
+                              <div class="personnel6-pic">
+                                  <img src="doc/personnel6.JPG" style="width:50%;">
+                              </div>
                               <div class="personnel5-pic">
                                   <img src="doc/personnel5.png" style="width:50%;">
                               </div>
